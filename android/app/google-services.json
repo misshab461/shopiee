@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742877783320",
+    "project_id": "shopiee-93a6b",
+    "storage_bucket": "shopiee-93a6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742877783320:android:5fc9f8b1fe9eb560cdaa6d",
+        "android_client_info": {
+          "package_name": "com.example.shopiee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHHm9ZnfFOqJXtJULWkMBvZ017X0nMrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
